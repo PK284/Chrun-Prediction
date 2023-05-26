@@ -16,6 +16,7 @@ This project requires the following dependencies:
 - numpy (version 1.22.0)
 
 
-You can install the dependencies by running the following command:
+## Results
 
-pip install -r requirements.txt
+The logistic regression model achieved an accuracy of 0.7957 in predicting churn on the test set. The model was trained on X% of the data and tested on Y% of the data.
+
