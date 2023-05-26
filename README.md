@@ -10,10 +10,10 @@ The dataset used for this project consists of customer information, including de
 
 This project requires the following dependencies:
 
-- Python (version X.X.X)
-- scikit-learn (version X.X.X)
-- pandas (version X.X.X)
-- numpy (version X.X.X)
+- Python (version 3.11)
+- scikit-learn (version  1.2.2)
+- pandas (version 2.0.1)
+- numpy (version 1.22.0)
 
-You can install the dependencies by running the following command:
+
 
