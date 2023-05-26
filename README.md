@@ -4,7 +4,7 @@ This repository contains code for performing churn prediction in the telecom ind
 
 ## Dataset
 
-The dataset used for this project consists of customer information, including demographics, usage patterns, and the churn label. The dataset is stored in the file `churn_dataset.csv` (or mention the actual file name if different).
+The dataset used for this project consists of customer information, including demographics, usage patterns, and the churn label. The dataset is stored in the file `churn_dataset.csv`
 
 ## Dependencies
 
