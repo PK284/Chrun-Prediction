@@ -16,4 +16,5 @@ This project requires the following dependencies:
 - numpy (version 1.22.0)
 
 
-
+You can install the dependencies by running the following command:
+pip install -r requirements.txt
